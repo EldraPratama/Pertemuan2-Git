@@ -1,0 +1,3 @@
+menambah index3.txt
+mena baris di index3.txt
+perubahan
